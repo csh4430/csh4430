@@ -57,6 +57,8 @@
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_R_blue-512.png" alt="R" width="45" height="45"/>
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_A_blue-512.png" alt="A" width="45" height="45"/>
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_K_blue-512.png" alt="K" width="45" height="45"/>
+>
+> > **The Layout, I Recently Get In.**
 
 
 ***The Project that I commit this everyday. (Remind me) 28th update.***
