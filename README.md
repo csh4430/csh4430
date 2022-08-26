@@ -18,7 +18,9 @@ The Tool I Can Use..
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps" width="45" height="45"/>
 <br /><br />
 
-**The OS I Am Using..**
+<h1>
+The OS I Am Using..
+</h1>
 <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="w10" width="45" height="45"/>
 <br /><br />
