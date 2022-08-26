@@ -7,7 +7,7 @@ The Language I Can Use..
 The Tool I Can Use..
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="45" height="45"/>
           
 
 The Project that I commit this everyday. (Remind me) 28th update.
