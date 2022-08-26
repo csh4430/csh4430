@@ -1,7 +1,6 @@
 <h1>
 The Language I Can Use..
 </h1>
-<br />
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 > 
@@ -16,7 +15,7 @@ The Language I Can Use..
 >
 > > **The Language, I Learned For Server Programming.**
 
-<br /><br />
+<br />
 
 <h1>
 The Tool I Can Use..
