@@ -32,8 +32,9 @@ The Tool I Can Use..
 > > **The Tool, I Make The Game With.**
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps" width="45" height="45"/>
 > 
-> > ** The Tool, I Make The Game Asset With.**
-<br /><br />
+> > **The Tool, I Make The Game Asset With.**
+
+<br />
 
 <h1>
 The OS I Am Using..
