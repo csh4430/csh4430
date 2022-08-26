@@ -45,7 +45,7 @@
 >
 > > **The OS, I Used From I Begin The Computer.**
 
-<br /><br />
+<br />
 
 <h1>
   The Keyboard Layout, I Am Using...
@@ -60,5 +60,6 @@
 >
 > > **The Layout, I Recently Get In.**
 
+<br /><br />
 
 ***The Project that I commit this everyday. (Remind me) 28th update.***
