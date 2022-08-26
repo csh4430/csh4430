@@ -51,7 +51,7 @@
   The Keyboard Layout, I Am Using...
 </h1>
 
-> ![image](https://user-images.githubusercontent.com/77655535/186917802-c09c91b1-5631-464e-bb45-73c9a5c0347d.png)
+> ![image](https://user-images.githubusercontent.com/77655535/186919879-27ae0b03-03fd-4977-a3be-bf9dd60fc08b.png)
 
 
 ***The Project that I commit this everyday. (Remind me) 28th update.***
