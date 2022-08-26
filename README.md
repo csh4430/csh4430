@@ -15,5 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps" width="45" height="45"/>
           
-
+**The OS I Am Using..**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="w10" width="45" height="45"/>
+          
 The Project that I commit this everyday. (Remind me) 28th update.
