@@ -1,6 +1,6 @@
-<h1>
+<h2>
   The Language I Can Use..
-</h1>
+</h2>
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 > 
@@ -17,9 +17,9 @@
 
 <br />
 
-<h1>
+<h2>
   The Tool I Can Use..
-</h1>
+</h2>
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="45" height="45"/>
 > 
@@ -36,9 +36,9 @@
 
 <br />
 
-<h1>
+<h2>
   The OS I Am Using..
-</h1>
+</h2>
 <br />
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="w10" width="45" height="45"/>
@@ -47,9 +47,9 @@
 
 <br />
 
-<h1>
+<h2>
   The Keyboard Layout, I Am Using...
-</h1>
+</h2>
 
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_D_blue-256.png" alt="D" width="45" height="45"/>
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_V_blue-512.png" alt="V" width="45" height="45"/>
