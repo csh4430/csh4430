@@ -3,7 +3,7 @@
 </h1>
 
 > **The Student Who Is Learning Game Programming.**
-> 
+
 > **The Student Who Is Attend GGM.**
 
 <h2>
