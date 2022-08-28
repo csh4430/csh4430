@@ -1,8 +1,10 @@
 <h1>
   Introducing...
 </h1>
+
 > **The Student Who Is Learning Game Programming.**
 > **The Student Who Is Attend GGM.**
+
 <h2>
   The Language I Can Use..
 </h2>
