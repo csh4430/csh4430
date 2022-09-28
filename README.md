@@ -1,5 +1,5 @@
 <h1>
-  Introducing...
+  Introducing..
 </h1>
 
 > **The Student who is learning Game Programming.** 
@@ -56,7 +56,7 @@
 <br />
 
 <h2>
-  The Keyboard Layout, I Am Using...
+  The Keyboard Layout, I Am Using..
 </h2>
 
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_H_blue-256.png" alt="H" width="45" height="45"/>
