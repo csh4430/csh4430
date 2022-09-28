@@ -22,6 +22,10 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
 >
 > > **The Language, I Learned For Server Programming.**
+>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"//>
+> 
+> > **The Language, I Learned For Algorythm Programming.**
 
 <br />
 
