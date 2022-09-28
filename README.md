@@ -69,5 +69,6 @@
 > > **The Layout, I Recently Get In.**
 
 <br /><br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snghun6889)](https://solved.ac/snghun6889/)
 
 ***32th Update.***
