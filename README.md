@@ -69,7 +69,7 @@
 > > **The Layout, I Recently Get In.**
 
 <br /><br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh4430&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh4430&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snghun6889)](https://solved.ac/snghun6889/)
 
 ***32th Update.***
