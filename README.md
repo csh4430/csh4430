@@ -63,9 +63,10 @@
   The Keyboard Layout, I Am Using..
 </h2>
 
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_H_blue-256.png" alt="H" width="45" height="45"/>
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_A_blue-512.png" alt="A" width="45" height="45"/>
+> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_C_blue-256.png" alt="C" width="45" height="45"/>
+> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_O_blue-512.png" alt="A" width="45" height="45"/>
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_L_blue-128.png" alt="L" width="45" height="45"/>
+> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_E_blue-128.png" alt="E" width="45" height="45"/>
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_M_blue-512.png" alt="M" width="45" height="45"/>
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_A_blue-512.png" alt="A" width="45" height="45"/>
 > <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_K_blue-512.png" alt="K" width="45" height="45"/>
@@ -80,6 +81,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh4430&show_icons=true&theme=dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snghun6889)](https://solved.ac/snghun6889/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snghun6889)](https://solved.ac/snghun6889)
 
 ***33th Update.***
