@@ -59,19 +59,6 @@
 
 <br />
 
-<h2>
-  The Keyboard Layout, I Am Using..
-</h2>
-
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_D_blue-256.png" alt="D" width="45" height="45"/>
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_V_blue-128.png" alt="V" width="45" height="45"/>
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_O_blue-512.png" alt="O" width="45" height="45"/>
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_R_blue-128.png" alt="R" width="45" height="45"/>
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_A_blue-512.png" alt="A" width="45" height="45"/>
-> <img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/letter_K_blue-512.png" alt="K" width="45" height="45"/>
->
-> > **The Layout, I Recently Get In.**
-
 <br /><br />
 
 <h2>
