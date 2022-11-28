@@ -2,9 +2,9 @@
   Introducing..
 </h1>
 
-> **The Student who is learning Game Programming.** 
+> **The Student who is The Game Developer.** 
 > 
-> **The Student who is attend GGM.**
+> **The Student who is ready to Work.**
 
 <h2>
   The Language I Can Use..
@@ -69,4 +69,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snghun6889)](https://solved.ac/snghun6889)
 
-***33th Update.***
+***34th Update.***
