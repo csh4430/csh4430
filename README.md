@@ -1,4 +1,4 @@
-<img src="/image/title.png" alt="title" style="height: 600px; width:250px;"/>
+![Alt text](/image/title.png?raw=true "Title")
 
 <h2>
   The Stats, I Can Tell..
