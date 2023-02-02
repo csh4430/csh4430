@@ -25,7 +25,7 @@
   <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216352957-8d291007-b2e4-43c2-8cf1-0b33404b7dc9.png" width = "35px"> 
   <br><br>
   
-  I'll graduate <img src = "https://github.com/csh4430/csh4430/blob/main/Image/School_Logo.png">
+  I'll graduate <img src = "https://github.com/csh4430/csh4430/blob/main/Image/School_Logo.png" width = "35px">
 </h4>
 
 
