@@ -44,12 +44,12 @@
  
 
 
-<h2>
-  The Stats, I Can Tell..
-</h2>
-
+<h1 align ="center">
+  Stat
+</h1>
+<p align ="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh4430&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snghun6889)](https://solved.ac/snghun6889)
-
+</p>
 ***34th Update.***
