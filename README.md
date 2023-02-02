@@ -44,6 +44,7 @@
   Tools 
   <img align ="center" src ="https://user-images.githubusercontent.com/77655535/216358220-05c431a5-f603-4265-be54-d632ae7ff87e.png" width ="35px">
   <img align ="center" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" width ="35px">
+  <img align ="center" src ="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width ="35px">
 
 </h4>
  
