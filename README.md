@@ -17,7 +17,7 @@
 <h1 align="center">
   Profile
 </h1>
-<h3> 
+<h3 align="center"> 
   Born : 2005 08 04 <br>
   Country : Republic of Korea <br>
   Language : Korean, English, Japanese, etc <br>
