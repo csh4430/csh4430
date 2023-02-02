@@ -18,7 +18,7 @@
   Profile
 </h1>
 <h3 align="center"> 
-  I am Korean <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216351362-be60ede3-06a9-4a6f-a3d4-c61df79237e2.png" width = "50px">
+  I am Korean <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216351362-be60ede3-06a9-4a6f-a3d4-c61df79237e2.png" width = "35px">
 
 </h3>
 
