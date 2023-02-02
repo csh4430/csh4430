@@ -1,10 +1,8 @@
 <p align = "center">
   <img src = "https://github.com/csh4430/csh4430/blob/main/Image/Title.png">
 </p>
-<p align="center">
-  <font size="10">
-    CSH
-  </font>
+<p align="center" style="font-size:14px;">
+  csh
 </p>
 <h2>
   The Stats, I Can Tell..
