@@ -18,9 +18,9 @@
   Profile
 </h1>
 <h3> 
-  Born : 2005 08 04
-  Country : Republic of Korea
-  Language : Korean, English, Japanese, etc
+  Born : 2005 08 04 <br>
+  Country : Republic of Korea <br>
+  Language : Korean, English, Japanese, etc <br>
 </h3>
 
 
