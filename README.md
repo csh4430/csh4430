@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <b>
-    Cheon Sng-Hyun
+    CSH
     <br>
     Game Developer
   </b>
