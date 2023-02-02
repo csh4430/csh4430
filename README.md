@@ -1,4 +1,4 @@
-![Alt text](.csh4430/image/title.png?raw=true "Title")
+![Alt text](https://github.com/csh4430/csh4430/blob/main/Image/Title.png?raw=true)
 
 <h2>
   The Stats, I Can Tell..
