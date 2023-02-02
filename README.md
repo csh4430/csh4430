@@ -28,6 +28,14 @@
   <img align = "center" src = "https://github.com/csh4430/csh4430/blob/main/Image/School_Logo.png" width = "35px">
 </h4>
 
+<h1 align="center">
+  I'm Studying
+</h1>
+<h4 align ="center">
+  <img align ="center" src ="https://user-images.githubusercontent.com/77655535/216356762-fc68c751-d4b1-46a7-9193-b4eb7e15ea14.png" width ="40px">
+
+</h4>
+ 
 
 
 <h2>
