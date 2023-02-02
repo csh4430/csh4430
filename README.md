@@ -1,4 +1,4 @@
-![Alt text](./image/title.png?raw=true "Title")
+![Alt text](.csh4430/image/title.png?raw=true "Title")
 
 <h2>
   The Stats, I Can Tell..
