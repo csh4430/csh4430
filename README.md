@@ -4,7 +4,7 @@
 <p align="center">
   <b>
     Cheon Sng-Hyun
-    <p>
+    <br>
     Game Developer
   </b>
 </p>
