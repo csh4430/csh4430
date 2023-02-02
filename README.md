@@ -1,4 +1,6 @@
-<p align = "center"> ![Alt text](https://github.com/csh4430/csh4430/blob/main/Image/Title.png?raw=true) </p>
+<p align = "center">
+  ![Alt text](https://github.com/csh4430/csh4430/blob/main/Image/Title.png?raw=true)
+</p>
 
 <h2>
   The Stats, I Can Tell..
