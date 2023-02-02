@@ -3,7 +3,8 @@
 </p>
 <p align="center">
   <b>
-    Cheon Sng-hyun
+    Cheon Sng-Hyun
+    <p>
     Game Developer
   </b>
 </p>
