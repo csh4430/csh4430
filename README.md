@@ -12,7 +12,7 @@
 <h1>
   Introducing  
 </h1>
-<h3>
+<h3 align="center">
   Profile
 </h3>
 
