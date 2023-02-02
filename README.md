@@ -18,9 +18,8 @@
   Profile
 </h1>
 <h3 align="center"> 
-  Born : 2005 08 04 <br>
-  Country : Republic of Korea <br>
-  Language : Korean, English, Japanese, etc <br>
+  I am Korean <img src ="https://user-images.githubusercontent.com/77655535/216350981-2337912e-d724-470d-b419-ebc367747d0c.png">
+
 </h3>
 
 
