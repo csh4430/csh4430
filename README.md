@@ -36,7 +36,10 @@
   I'm Studying
 </h1>
 <h4 align ="center">
-  Languages <img align ="center" src ="https://user-images.githubusercontent.com/77655535/216356762-fc68c751-d4b1-46a7-9193-b4eb7e15ea14.png" width ="35px">
+  Languages 
+  <img align ="center" src ="https://user-images.githubusercontent.com/77655535/216356762-fc68c751-d4b1-46a7-9193-b4eb7e15ea14.png" width ="35px"> 
+  <img align ="center" src ="https://user-images.githubusercontent.com/77655535/216357213-1cc65c72-0445-4527-9890-ab20941de5b9.png" width="35px">
+
 
 </h4>
  
