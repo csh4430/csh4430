@@ -13,17 +13,10 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
-
-<h1>
-  Introducing  
-</h1>
-<h3 align="center">
+<h1 align="center">
   Profile
-</h3>
+</h1>
 
 
 
