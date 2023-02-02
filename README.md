@@ -1,65 +1,31 @@
-<h1>
-  Introducing..
+<p align = "center">
+  <img src = "https://github.com/csh4430/csh4430/blob/main/Image/Title.png">
+</p>
+<p align="center">
+  <b>
+    CSH
+    <br>
+    Game Developer
+  </b>
+</p>
+
+
+<br>
+<br>
+<br>
+
+<h1 align="center">
+  Profile
 </h1>
+<h4 align="center"> 
+  I am Korean <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216351362-be60ede3-06a9-4a6f-a3d4-c61df79237e2.png" width = "35px"> <br>
+  I can speak  
+  <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216351362-be60ede3-06a9-4a6f-a3d4-c61df79237e2.png" width = "35px"> 
+  <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216352796-863867dc-8535-4570-bb7d-d7b1c8eeecd5.png" width = "35px"> 
+  <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216352957-8d291007-b2e4-43c2-8cf1-0b33404b7dc9.png" width = "35px"> 
+</h4>
 
-> **The Student who is The Game Developer.** 
-> 
-> **The Student who is ready to Work.**
 
-<h2>
-  The Language I Can Use..
-</h2>
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-> 
-> > **The Language, I Learned First.**
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/> 
-> 
-> > **The Language, I Used The Most.**
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/> 
->
-> > **The Language, I Like the Most.**
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
->
-> > **The Language, I Learned For Server Programming.**
->
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="45" height="45"/>
-> 
-> > **The Language, I Learned For Algorythm Programming.**
-
-<br />
-
-<h2>
-  The Tool I Can Use..
-</h2>
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="45" height="45"/>
-> 
-> > **The Tool, I Am Using The Most.**
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vsc" width="45" height="45"/>
-> 
-> > **The Tool, I Used For Server Programming.**
-> <img src="https://user-images.githubusercontent.com/77655535/186916275-4662c635-6117-43a9-8b85-ed617047ad69.png" alt="unity" width="45" height="45"/>
-> 
-> > **The Tool, I Make The Game With.**
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="ps" width="45" height="45"/>
-> 
-> > **The Tool, I Make The Game Asset With.**
-
-<br />
-
-<h2>
-  The OS I Am Using..
-</h2>
-<br />
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="w10" width="45" height="45"/>
->
-> > **The OS, I Used From I Begin The Computer.**
-
-<br />
-
-<br /><br />
 
 <h2>
   The Stats, I Can Tell..
