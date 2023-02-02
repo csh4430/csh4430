@@ -13,7 +13,7 @@
   <h1>
     Introducing  
   </h1>
-</body
+</body>
 
 <h2>
   The Stats, I Can Tell..
