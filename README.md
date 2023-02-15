@@ -9,7 +9,7 @@
     CSH
     <img align = "center" src = "https://github.com/csh4430/csh4430/blob/main/Image/School_Logo.png" width = "35px">
     <br>
-    Game Developer <img align = "center" src = "https://icons8.com/icon/cAi7tS2wPJ7v/xbox-controller" width = "35px">
+    Game Developer <img align = "center" src = "https://user-images.githubusercontent.com/77655535/219050209-6a6dc4aa-eb8d-4736-b0e9-6040c392ed74.png" width = "35px">
     <br>
     <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216351362-be60ede3-06a9-4a6f-a3d4-c61df79237e2.png" width = "35px"> 
     <img align = "center" src ="https://user-images.githubusercontent.com/77655535/216352796-863867dc-8535-4570-bb7d-d7b1c8eeecd5.png" width = "35px"> 
